@@ -8,5 +8,5 @@ Gem jwt-sessions
 
 There are two apps.
 
-A Ruby on Rails backend - This will handle our data, sessions, and authentication.
-A Vue.js frontend - This will be the view layer but also the one responsible for sending and receiving data to our rails-based backend. The front-end will run on a different instance using the Vue-CLI to help us set up an app.
+* A Ruby on Rails backend - This will handle our data, sessions, and authentication.
+* A Vue.js frontend - This will be the view layer but also the one responsible for sending and receiving data to our rails-based backend. The front-end will run on a different instance using the Vue-CLI to help us set up an app.
